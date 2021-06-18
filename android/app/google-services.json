@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504530778785",
+    "firebase_url": "https://devs-9d471.firebaseio.com",
+    "project_id": "devs-9d471",
+    "storage_bucket": "devs-9d471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504530778785:android:3b39496653377158720ee0",
+        "android_client_info": {
+          "package_name": "com.prospice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504530778785-1hrucsq2cg815pl493474h7rqi93l5n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPVAHowun7FjUCX8F-tHRhOPfFGxjt_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504530778785-1hrucsq2cg815pl493474h7rqi93l5n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
